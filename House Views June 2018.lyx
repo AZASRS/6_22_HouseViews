@@ -134,7 +134,7 @@ House Views and Portfolio Positioning
 \end_layout
 
 \begin_layout Date
-June 22, 2018
+April 17, 2018
 \begin_inset Note Note
 status collapsed
 
@@ -155,7 +155,7 @@ Not really informative to the audience, more for people (including yourself)
 status open
 
 \begin_layout Plain Layout
-6/22/2018
+4/17/2018
 \begin_inset Note Note
 status collapsed
 
@@ -588,7 +588,7 @@ Note on data sources: Unless otherwise noted, all market and economic data
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename Economy.pdf
+	filename ../4.2018 House Views/Trends econ.pdf
 	width 70page%
 	height 55pheight%
 
@@ -627,7 +627,7 @@ Rates moving up in US, but soft elsewhere.
 
 \begin_layout Frame
 \begin_inset Graphics
-	filename Interest.pdf
+	filename ../4.2018 House Views/Trends interest.pdf
 	width 12cm
 	height 12cm
 
@@ -669,7 +669,7 @@ Dollar weakening to major global currencies
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename Trends 4.pdf
+	filename ../4.2018 House Views/Trends 4.pdf
 	width 12cm
 	height 12cm
 
@@ -701,7 +701,7 @@ Consensus Economic Forecasts
 
 \begin_layout Frame
 \begin_inset Graphics
-	filename XECF.pdf
+	filename ../4.2018 House Views/XECF.pdf
 	width 13cm
 	height 11cm
 
@@ -746,14 +746,14 @@ Positioning
 \begin_layout Itemize
 
 \size scriptsize
-We are 0.8% underweight US public equities in aggregate 
+We are 0.7% underweight US public equities in aggregate 
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
 
 \size scriptsize
-0.8% underweight LC, neutral in MC & SC largely reflecting performance difference
+0.7% underweight LC, neutral in MC & SC largely reflecting performance difference
  since March 1
 \end_layout
 
@@ -767,14 +767,14 @@ We are 0.8% underweight US public equities in aggregate
 \begin_layout Itemize
 
 \size scriptsize
-We are 1.7% underweight in international equities in aggregate
+We are 1.8% underweight in international equities in aggregate
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
 
 \size scriptsize
-1.4% underweight EAFE LC, 0.2% underweight EAFE SC, and 0.1% underweight emerging
+1.4% underweight EAFE LC, 0.2% underweight EAFE SC, and 0.2% underweight emerging
  markets
 \end_layout
 
@@ -861,22 +861,21 @@ Fiscal stimulus via tax reform likely to bolster confidence in the short
 \begin_layout Itemize
 
 \size scriptsize
-Dollar strength in anticipation of rising rates has not materialized
+Dollar has strengthened recently 
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
 
 \size scriptsize
-Fund flows have recently favored ROW versus US
+Fund flows have recently favored US versus ROW
 \end_layout
 
 \end_deeper
 \begin_layout Itemize
 
 \size scriptsize
-EM has performed well and China appears to be handling restructuring efforts
- well but with caution warranted over its credit growth
+EM has underperformed since mid-April 
 \end_layout
 
 \begin_deeper
@@ -944,7 +943,7 @@ Favorable price trends across the world.
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename Trends 1.pdf
+	filename ../4.2018 House Views/Trends 1.pdf
 	width 12cm
 	height 12cm
 
@@ -984,7 +983,7 @@ Relative Valuation of Global Indices
 
 \begin_layout Frame
 \begin_inset Graphics
-	filename ../4.2018 House Views/mrv1.pdf
+	filename mrv1.JPG
 	width 11cm
 	height 7cm
 
@@ -1019,7 +1018,7 @@ Relative Valuation of Global Indices (Continued)
 
 \begin_layout Frame
 \begin_inset Graphics
-	filename ../4.2018 House Views/mrv2.pdf
+	filename mrv2.JPG
 	width 11cm
 	height 7cm
 
@@ -1050,7 +1049,7 @@ Relative Valuation of Global Indices (Continued)
 
 \begin_layout Frame
 \begin_inset Graphics
-	filename ../4.2018 House Views/mrv5.pdf
+	filename mrv5.JPG
 	width 11cm
 	height 7cm
 
@@ -1081,7 +1080,7 @@ US Dollar
 
 \begin_layout Frame
 \begin_inset Graphics
-	filename ../4.2018 House Views/USD.pdf
+	filename USD.JPG
 	width 11cm
 	height 7cm
 
@@ -1112,7 +1111,7 @@ Currency Forecasts
 
 \begin_layout Frame
 \begin_inset Graphics
-	filename ../4.2018 House Views/currency4cast.pdf
+	filename currency4cast.JPG
 	width 11cm
 	height 7cm
 
@@ -1144,7 +1143,7 @@ Consumer Confidence
 \begin_deeper
 \begin_layout Standard
 \begin_inset Graphics
-	filename ../4.2018 House Views/consumerconf.pdf
+	filename consumerconf.JPG
 	width 11cm
 	height 7cm
 
@@ -1181,7 +1180,7 @@ Fund Flows
 \begin_deeper
 \begin_layout Standard
 \begin_inset Graphics
-	filename ../4.2018 House Views/fundflows.pdf
+	filename fundflows.JPG
 	width 11cm
 	height 7cm
 
@@ -1225,12 +1224,11 @@ Private Equity Environment
 
 \begin_deeper
 \begin_layout Itemize
-Pace of fundraising is strong
+Pace of fundraising has moderated a bit
 \end_layout
 
 \begin_layout Itemize
-Deal volume is in line with the past couple years while aggregate deal value
- is slightly down
+Deal volume and aggregate deal value are relatively steady
 \end_layout
 
 \begin_layout Itemize
@@ -1427,10 +1425,6 @@ Private Equity Buyout Multiples
 \end_layout
 
 \end_deeper
-\begin_layout Standard
-
-\end_layout
-
 \begin_layout Standard
 \begin_inset Separator parbreak
 \end_inset
@@ -2219,7 +2213,7 @@ Commentary
 
 \begin_deeper
 \begin_layout Itemize
-Bottoms up model shows flat expected performance 
+Bottoms up model shows modestly down expected performance 
 \begin_inset Separator latexpar
 \end_inset
 
@@ -2228,8 +2222,7 @@ Bottoms up model shows flat expected performance
 
 \begin_deeper
 \begin_layout Itemize
-Small decline in ags and small increase in livestock although recent tariff
- news likely to have negative impacts on both
+Small decline in ags 
 \end_layout
 
 \end_deeper
@@ -2282,7 +2275,7 @@ Bottoms up model
 
 \begin_layout Frame
 \begin_inset Graphics
-	filename ../4.2018 House Views/commoditiesbottomsup.pdf
+	filename cmdtybottomup.JPG
 	width 10cm
 	height 6cm
 
@@ -2338,7 +2331,7 @@ Top down model
 \end_layout
 
 \begin_layout Frame
-\begin_inset Formula $USDchg=-0.011$
+\begin_inset Formula $USDchg=-0.017$
 \end_inset
 
 
@@ -2358,7 +2351,7 @@ status open
 
 
 \backslash
-Sexpr{-16.8+(05.3*3.5)-(0.9*1.1)}
+Sexpr{-16.8+(5.3*3.8)-(0.9*-1.7)}
 \end_layout
 
 \end_inset
@@ -2412,7 +2405,7 @@ status open
 
 \begin_layout Frame
 \begin_inset Graphics
-	filename ../4.2018 House Views/commodities1y.pdf
+	filename cmdty1y.JPG
 	width 80page%
 	height 65pheight%
 
@@ -2443,7 +2436,7 @@ status open
 
 \begin_layout Frame
 \begin_inset Graphics
-	filename ../4.2018 House Views/commodities5y.pdf
+	filename cmdty5y.JPG
 	width 80page%
 	height 65pheight%
 
@@ -2474,7 +2467,7 @@ status open
 
 \begin_layout Frame
 \begin_inset Graphics
-	filename ../4.2018 House Views/commodities10y.pdf
+	filename cmdty10y.JPG
 	width 80page%
 	height 65pheight%
 
@@ -2505,7 +2498,7 @@ status open
 
 \begin_layout Frame
 \begin_inset Graphics
-	filename ../4.2018 House Views/commodities25y.pdf
+	filename cmdty25y.JPG
 	width 80page%
 	height 65pheight%
 
